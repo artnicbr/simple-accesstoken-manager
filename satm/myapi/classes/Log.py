@@ -1,4 +1,4 @@
-from .models import Log
+from ..models import Log
 
 class LogRecord:
 
